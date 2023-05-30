@@ -2,6 +2,7 @@
 #include <time.h>
 #include "GameController.h"
 #include <windows.h>
+#include <SFML/Graphics.hpp>
 
 
 //информация о колонне(позиция по x,y; масштаб; длина и ширина
